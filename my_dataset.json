@@ -1,0 +1,18 @@
+[
+    {
+      "role": "user",
+      "content": "How do you define a variable in computer programming?"
+    },
+    {
+      "role": "assistant",
+      "content": "It is defined as a state in a programming language that is capable of storing a value."
+    },
+    {
+      "role": "user",
+      "content": "How do you create a function in Python?"
+    },
+    {
+      "role": "assistant",
+      "content": "’ def’ keyword is used for defining a function in Python."
+    }
+]
